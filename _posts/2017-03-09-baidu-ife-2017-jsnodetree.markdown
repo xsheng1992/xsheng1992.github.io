@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "百度ife 2017 实现树形组件"
-date:   2017-03-09 16:23:34 +0800
+date:   2017-03-09 16:23:34
 categories: 百度ife javascript tree
 ---
 #### 实现树形组件
