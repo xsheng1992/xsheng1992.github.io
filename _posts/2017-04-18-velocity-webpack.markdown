@@ -4,12 +4,11 @@ title:  "webpack引入velocity时遇到的小问题"
 date:   2017-04-18 15:57:00
 categories: webpack 插件
 ---
-# webpack引入velocity时遇到的小问题
 
 今天在看vue官方提供的webpack-simple的demo，按照网上的一篇文章想要自己稍微修改下这个demo。实际操作时需要引入velocity来实现一些动画效果，然而利用npm安装了velocity后运行时却一直报错：
 
 {% highlight ruby %}
-	Uncaught Error: Cannot find module "fs":
+  Uncaught Error: Cannot find module "fs":
 {% endhighlight %}
 
 开始时一直以为是引用的方式错误，于是一直在找webpack引入插件的方法，如：
