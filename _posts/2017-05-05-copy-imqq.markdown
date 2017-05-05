@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "vue仿照QQ页面"
+date:   2017-05-05 09:25:00
+categories: vue demo
+---
+最近学习vue，期间想用vue尝试写一个网页，后来看到了QQ的页面，觉得非常好看于是就想仿照它自己写一个。
+
+使用素材都来自于[http://im.qq.com/][1]
+
+[1]: http://im.qq.com/
+
+vue方面使用了vue-cli和vue-router，初次尝试，中途也遇到了一些坑。下面是demo页面：
+
+demo页面：[https://xsheng1992.github.io/vuejs-demo/demo-imqq/#/][2]    
+源码：[https://github.com/xsheng1992/vuejs-demo/tree/master/demo-imqq][3]
+
+[2]: https://xsheng1992.github.io/vuejs-demo/demo-imqq/#/
+[3]: https://github.com/xsheng1992/vuejs-demo/tree/master/demo-imqq
+
+下面是一部分预览效果：
+
+![demo预览效果][img1]
+
+[img1]: http://olr7t6rk5.bkt.clouddn.com/2017/05/copy-imqq/20170505091813.png
